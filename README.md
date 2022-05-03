@@ -1,2 +1,3 @@
-# ds-algo
-Implementations of poplar data structures and algorithms.
+# Data Structures and Algorthims
+
+This project implements popular data structures and algorithms in typescript. 
